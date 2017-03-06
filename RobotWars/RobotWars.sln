@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotWars.Test", "RobotWars.Test\RobotWars.Test.csproj", "{143278E7-E19E-4DBB-A94C-544D2D9FE3AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotWars.Core", "RobotWars.Core\RobotWars.Core.csproj", "{899ADE64-966C-450D-9BAD-20A11ADECB7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotWars.Forms", "RobotWars.Forms\RobotWars.Forms.csproj", "{929C7EE7-FBB6-4D33-864C-03DC86858A52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{143278E7-E19E-4DBB-A94C-544D2D9FE3AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{143278E7-E19E-4DBB-A94C-544D2D9FE3AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{143278E7-E19E-4DBB-A94C-544D2D9FE3AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{143278E7-E19E-4DBB-A94C-544D2D9FE3AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{899ADE64-966C-450D-9BAD-20A11ADECB7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{899ADE64-966C-450D-9BAD-20A11ADECB7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{899ADE64-966C-450D-9BAD-20A11ADECB7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{899ADE64-966C-450D-9BAD-20A11ADECB7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{929C7EE7-FBB6-4D33-864C-03DC86858A52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{929C7EE7-FBB6-4D33-864C-03DC86858A52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{929C7EE7-FBB6-4D33-864C-03DC86858A52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{929C7EE7-FBB6-4D33-864C-03DC86858A52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
